@@ -1,1 +1,3 @@
 # McDonald-s-Menu-Nutritional-Analysis---Project
+
+"This project aims to analyze the nutritional content of McDonald's menu items to provide insights benefiting both customers and the organization. By understanding the nutritional profiles, customers can make informed choices aligning with their dietary preferences and health goals. For McDonald's, this analysis can guide menu development, introducing healthier options and catering to diverse nutritional needs. By identifying menu items with the highest and lowest calorie counts and determining average nutritional content across categories, this project empowers customers to make healthier decisions and enables McDonald's to better serve its customer base."
